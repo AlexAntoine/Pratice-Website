@@ -1,0 +1,6 @@
+1. buy a domain name. NameCheap.com, go daddy. or just look it up on google.
+2. Find a place to host the website. DreamHost, go daddy.
+3. obtain the DNS, copy it and change the nameserver on the webiste where you got the domain from ns1, ns2, ns3.
+4. download cyber duck for FTP, SFTP upload.
+5. it's going to ask for a server name, username, and password. All of that can be obtained from the hosting website.
+6. upload the files 
